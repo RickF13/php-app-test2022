@@ -10,6 +10,7 @@
             echo "Hello World PHP, I'm a Developer! <br/>";
             echo "Hi, I'm a PHP script!";
         ?>
-        <a href="https://github.com/RickF13">GitHub</a>
+        <br>
+        <a id="git" href="https://github.com/RickF13" target="_blank">GitHub</a>
     </body>
 </html>

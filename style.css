@@ -6,3 +6,17 @@ body {
 body::selection {
     background-color: hotpink;
 }
+
+a#git:active, a#git:link, a#git:visited {
+    color: cyan;
+    
+}
+
+a#git::selection {
+    background-color: cyan;
+    color: white;
+}
+
+a#git:hover {
+    color: hotpink;
+}
